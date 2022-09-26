@@ -31,6 +31,7 @@ jobs:
       - name: Run pytest
         run: |
           pytest
+
       # Runs a set of commands using the runners shell
       #- name: Run pytests in the base directory
         #run: |
